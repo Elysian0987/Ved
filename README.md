@@ -9,7 +9,7 @@ Ved is my attempt: a collection of set of scripts written in a custom "Vedic" pr
 
 ##  What this contains
 
-Bunch of files written in संस्कृतस्य !! 
+A bunch of files written in संस्कृतस्य !! 
 
 ##  How to Run
 
