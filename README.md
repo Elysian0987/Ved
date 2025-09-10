@@ -55,9 +55,13 @@ Feel free to submit pull requests to add more verses, improve formatting, or enh
 Because I love Sanskrit.  
 That’s it.
 
-##  License
+## License
 
-This repository is open-source under the MIT License.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This project is open-source under the terms of the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ---
-प्रेमार्थं संस्कृतस्य ♡ 
+<div align="center">
+  प्रेमार्थं संस्कृतस्य ♡
+</div> 
