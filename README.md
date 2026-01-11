@@ -4,7 +4,7 @@ Welcome to **Ved**, a collection of Sanskrit verses and thoughtful expressions s
 
 ##  Overview
 
-As a lifelong rasika of Sanskrit—the language that feels less learned and more remembered—I had to dive into this as soon as I heard of it.  
+As a lifelong rasika of Sanskrit, the language that feels less learned and more remembered. I had to dive into this as soon as I heard of it.  
 Ved is my attempt: a collection of set of scripts written in a custom "Vedic" programming language.
 
 ##  What this contains
