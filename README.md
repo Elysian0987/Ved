@@ -1,4 +1,4 @@
-# Ved - Collection of Sanskrit Texts
+# Ved - Collection of Sanskrit Scripts
 
 Welcome to **Ved**, a collection of Sanskrit verses and thoughtful expressions stored in simple `.ved` files.
 
